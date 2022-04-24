@@ -21,7 +21,7 @@ Gulliver's Travels is a personal project of mine. I wanted to combine the equati
 * Install dependicies with requirements.txt
 * Run main.py
 
-## Acknowledges
+## Acknowledgements
 
 * Mr. Herman, my AP Physics teacher
 * Jonathan Swift
